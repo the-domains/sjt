@@ -1,0 +1,14 @@
+layout_spectrum: 0.6056485746521503
+typography_spectrum: 0.8429322836454958
+color:
+  brandStrength: 0.12286293203942478
+  lightness: 0.19055413571186364
+  saturation: 0.6820023900363594
+  rhythmicContrast: 0.3605584246106446
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: sjt
